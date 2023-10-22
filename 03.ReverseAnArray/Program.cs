@@ -5,12 +5,12 @@
         static void Main(string[] args)
         {
             // Read the array (n lines of integers)
-            int n = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine() ?? "1");
 
             int[] arr = new int[n];
 
             for (int i = 0; i < n; i++)
-                arr[i] = int.Parse(Console.ReadLine());
+                arr[i] = int.Parse(Console.ReadLine() ?? "1");
 
             // Print the elements from the last to the first
             for (int i = n - 1; i >= 0; i--)
