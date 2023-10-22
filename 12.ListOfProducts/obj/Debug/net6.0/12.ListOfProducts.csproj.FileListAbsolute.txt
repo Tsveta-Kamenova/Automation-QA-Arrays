@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\12.ListOfProducts\obj\Debug\net6.0\12.ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\12.ListOfProducts\obj\Debug\net6.0\12.ListOfProducts.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\12.ListOfProducts\obj\Debug\net6.0\12.ListOfProducts.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\12.ListOfProducts\obj\Debug\net6.0\12.ListOfProducts.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\12.ListOfProducts\bin\Debug\net6.0\12.ListOfProducts.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\12.ListOfProducts\bin\Debug\net6.0\12.ListOfProducts.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\12.ListOfProducts\bin\Debug\net6.0\12.ListOfProducts.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\12.ListOfProducts\bin\Debug\net6.0\12.ListOfProducts.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\12.ListOfProducts\bin\Debug\net6.0\12.ListOfProducts.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\12.ListOfProducts\obj\Debug\net6.0\12.ListOfProducts.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\12.ListOfProducts\obj\Debug\net6.0\refint\12.ListOfProducts.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\12.ListOfProducts\obj\Debug\net6.0\12.ListOfProducts.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\12.ListOfProducts\obj\Debug\net6.0\12.ListOfProducts.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\12.ListOfProducts\obj\Debug\net6.0\ref\12.ListOfProducts.dll

@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\14.ListManipulationBasics\bin\Debug\net6.0\14.ListManipulationBasics.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\14.ListManipulationBasics\bin\Debug\net6.0\14.ListManipulationBasics.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\14.ListManipulationBasics\bin\Debug\net6.0\14.ListManipulationBasics.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\14.ListManipulationBasics\bin\Debug\net6.0\14.ListManipulationBasics.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\14.ListManipulationBasics\bin\Debug\net6.0\14.ListManipulationBasics.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\14.ListManipulationBasics\obj\Debug\net6.0\14.ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\14.ListManipulationBasics\obj\Debug\net6.0\14.ListManipulationBasics.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\14.ListManipulationBasics\obj\Debug\net6.0\14.ListManipulationBasics.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\14.ListManipulationBasics\obj\Debug\net6.0\14.ListManipulationBasics.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\14.ListManipulationBasics\obj\Debug\net6.0\14.ListManipulationBasics.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\14.ListManipulationBasics\obj\Debug\net6.0\refint\14.ListManipulationBasics.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\14.ListManipulationBasics\obj\Debug\net6.0\14.ListManipulationBasics.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\14.ListManipulationBasics\obj\Debug\net6.0\14.ListManipulationBasics.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\14.ListManipulationBasics\obj\Debug\net6.0\ref\14.ListManipulationBasics.dll

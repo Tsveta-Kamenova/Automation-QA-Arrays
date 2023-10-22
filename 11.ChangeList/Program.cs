@@ -33,7 +33,7 @@
                 }
                 commandGiven = Console.ReadLine() ?? "Delete 5";
             }
-            Console.WriteLine(string.Join("", inputList));
+            Console.WriteLine(string.Join(" ", inputList));
         }
     }
 }

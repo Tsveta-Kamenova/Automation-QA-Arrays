@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\13.RemoveNegativesAndReverse\bin\Debug\net6.0\13.RemoveNegativesAndReverse.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\13.RemoveNegativesAndReverse\bin\Debug\net6.0\13.RemoveNegativesAndReverse.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\13.RemoveNegativesAndReverse\bin\Debug\net6.0\13.RemoveNegativesAndReverse.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\13.RemoveNegativesAndReverse\bin\Debug\net6.0\13.RemoveNegativesAndReverse.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\13.RemoveNegativesAndReverse\bin\Debug\net6.0\13.RemoveNegativesAndReverse.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\13.RemoveNegativesAndReverse\obj\Debug\net6.0\13.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\13.RemoveNegativesAndReverse\obj\Debug\net6.0\13.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\13.RemoveNegativesAndReverse\obj\Debug\net6.0\13.RemoveNegativesAndReverse.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\13.RemoveNegativesAndReverse\obj\Debug\net6.0\13.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\13.RemoveNegativesAndReverse\obj\Debug\net6.0\13.RemoveNegativesAndReverse.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\13.RemoveNegativesAndReverse\obj\Debug\net6.0\refint\13.RemoveNegativesAndReverse.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\13.RemoveNegativesAndReverse\obj\Debug\net6.0\13.RemoveNegativesAndReverse.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\13.RemoveNegativesAndReverse\obj\Debug\net6.0\13.RemoveNegativesAndReverse.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\13.RemoveNegativesAndReverse\obj\Debug\net6.0\ref\13.RemoveNegativesAndReverse.dll
