@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\22.CondenseArrayToNumber\bin\Debug\net6.0\22.CondenseArrayToNumber.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\22.CondenseArrayToNumber\bin\Debug\net6.0\22.CondenseArrayToNumber.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\22.CondenseArrayToNumber\bin\Debug\net6.0\22.CondenseArrayToNumber.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\22.CondenseArrayToNumber\bin\Debug\net6.0\22.CondenseArrayToNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\22.CondenseArrayToNumber\bin\Debug\net6.0\22.CondenseArrayToNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\22.CondenseArrayToNumber\obj\Debug\net6.0\22.CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\22.CondenseArrayToNumber\obj\Debug\net6.0\22.CondenseArrayToNumber.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\22.CondenseArrayToNumber\obj\Debug\net6.0\22.CondenseArrayToNumber.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\22.CondenseArrayToNumber\obj\Debug\net6.0\22.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\22.CondenseArrayToNumber\obj\Debug\net6.0\22.CondenseArrayToNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\22.CondenseArrayToNumber\obj\Debug\net6.0\refint\22.CondenseArrayToNumber.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\22.CondenseArrayToNumber\obj\Debug\net6.0\22.CondenseArrayToNumber.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\22.CondenseArrayToNumber\obj\Debug\net6.0\22.CondenseArrayToNumber.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\22.CondenseArrayToNumber\obj\Debug\net6.0\ref\22.CondenseArrayToNumber.dll
