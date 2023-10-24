@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\28.ArrayRotation\bin\Debug\net6.0\28.ArrayRotation.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\28.ArrayRotation\bin\Debug\net6.0\28.ArrayRotation.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\28.ArrayRotation\bin\Debug\net6.0\28.ArrayRotation.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\28.ArrayRotation\bin\Debug\net6.0\28.ArrayRotation.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\28.ArrayRotation\bin\Debug\net6.0\28.ArrayRotation.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\28.ArrayRotation\obj\Debug\net6.0\28.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\28.ArrayRotation\obj\Debug\net6.0\28.ArrayRotation.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\28.ArrayRotation\obj\Debug\net6.0\28.ArrayRotation.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\28.ArrayRotation\obj\Debug\net6.0\28.ArrayRotation.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\28.ArrayRotation\obj\Debug\net6.0\28.ArrayRotation.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\28.ArrayRotation\obj\Debug\net6.0\refint\28.ArrayRotation.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\28.ArrayRotation\obj\Debug\net6.0\28.ArrayRotation.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\28.ArrayRotation\obj\Debug\net6.0\28.ArrayRotation.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\12_Arrays_Lists\28.ArrayRotation\obj\Debug\net6.0\ref\28.ArrayRotation.dll

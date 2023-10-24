@@ -9,29 +9,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SumAnArray", "02.SumAnAr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ReverseAnArray", "03.ReverseAnArray\03.ReverseAnArray.csproj", "{9E8DFCA0-FA3F-4883-8416-3F16CC31BDDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.EvenAndOddSubtraction", "04.EvenAndOddSubtraction\04.EvenAndOddSubtraction.csproj", "{F4DB6403-67F5-4092-B73C-B07F916F158A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.EvenAndOddSubtraction", "04.EvenAndOddSubtraction\04.EvenAndOddSubtraction.csproj", "{F4DB6403-67F5-4092-B73C-B07F916F158A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.EqualArrays", "05.EqualArrays\05.EqualArrays.csproj", "{B8024D91-D507-4AC3-B03D-A976A1B841FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.EqualArrays", "05.EqualArrays\05.EqualArrays.csproj", "{B8024D91-D507-4AC3-B03D-A976A1B841FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.CommonElements", "06.CommonElements\06.CommonElements.csproj", "{87BE7470-5143-46D5-BDA5-3DCA19D383F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.CommonElements", "06.CommonElements\06.CommonElements.csproj", "{87BE7470-5143-46D5-BDA5-3DCA19D383F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.ChangeList", "11.ChangeList\11.ChangeList.csproj", "{49181D67-EA7A-49FF-9620-47778695D3EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.ChangeList", "11.ChangeList\11.ChangeList.csproj", "{49181D67-EA7A-49FF-9620-47778695D3EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.ListOfProducts", "12.ListOfProducts\12.ListOfProducts.csproj", "{F062E9A1-5265-4F25-99EB-62BA18249B1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.ListOfProducts", "12.ListOfProducts\12.ListOfProducts.csproj", "{F062E9A1-5265-4F25-99EB-62BA18249B1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.RemoveNegativesAndReverse", "13.RemoveNegativesAndReverse\13.RemoveNegativesAndReverse.csproj", "{4BF8C41F-2113-4749-A17E-E0CADF61E63B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.RemoveNegativesAndReverse", "13.RemoveNegativesAndReverse\13.RemoveNegativesAndReverse.csproj", "{4BF8C41F-2113-4749-A17E-E0CADF61E63B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.ListManipulationBasics", "14.ListManipulationBasics\14.ListManipulationBasics.csproj", "{6D6955CD-3055-4DD3-9656-EAFAAAF7E37D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.ListManipulationBasics", "14.ListManipulationBasics\14.ListManipulationBasics.csproj", "{6D6955CD-3055-4DD3-9656-EAFAAAF7E37D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.ListManipulationAdvanced", "15.ListManipulationAdvanced\15.ListManipulationAdvanced.csproj", "{B6E9CDEA-AA04-40FE-A962-66FBBED38B64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.ListManipulationAdvanced", "15.ListManipulationAdvanced\15.ListManipulationAdvanced.csproj", "{B6E9CDEA-AA04-40FE-A962-66FBBED38B64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.Gauss'Trick", "21.Gauss'Trick\21.Gauss'Trick.csproj", "{58796C06-03EA-4FB2-BD12-B91347AEE364}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21.Gauss'Trick", "21.Gauss'Trick\21.Gauss'Trick.csproj", "{58796C06-03EA-4FB2-BD12-B91347AEE364}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.CondenseArrayToNumber", "22.CondenseArrayToNumber\22.CondenseArrayToNumber.csproj", "{D48BF2F5-1D47-4598-96D0-A74D9A4AD149}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22.CondenseArrayToNumber", "22.CondenseArrayToNumber\22.CondenseArrayToNumber.csproj", "{D48BF2F5-1D47-4598-96D0-A74D9A4AD149}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.MergingLists", "23.MergingLists\23.MergingLists.csproj", "{857C09D9-91B7-4033-AA30-7904C55501B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23.MergingLists", "23.MergingLists\23.MergingLists.csproj", "{857C09D9-91B7-4033-AA30-7904C55501B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25.BombNumbers", "25.BombNumbers\25.BombNumbers.csproj", "{9C8B3A17-A8EB-4458-9462-2D900F440906}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25.BombNumbers", "25.BombNumbers\25.BombNumbers.csproj", "{9C8B3A17-A8EB-4458-9462-2D900F440906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27.ZigZagArrays", "27.ZigZagArrays\27.ZigZagArrays.csproj", "{DF27DA63-9102-49D3-A751-5ACE7CD263D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28.ArrayRotation", "28.ArrayRotation\28.ArrayRotation.csproj", "{E947231D-975B-4F42-B72A-ADCCF8302D49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{9C8B3A17-A8EB-4458-9462-2D900F440906}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C8B3A17-A8EB-4458-9462-2D900F440906}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C8B3A17-A8EB-4458-9462-2D900F440906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF27DA63-9102-49D3-A751-5ACE7CD263D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF27DA63-9102-49D3-A751-5ACE7CD263D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF27DA63-9102-49D3-A751-5ACE7CD263D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF27DA63-9102-49D3-A751-5ACE7CD263D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E947231D-975B-4F42-B72A-ADCCF8302D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E947231D-975B-4F42-B72A-ADCCF8302D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E947231D-975B-4F42-B72A-ADCCF8302D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E947231D-975B-4F42-B72A-ADCCF8302D49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
